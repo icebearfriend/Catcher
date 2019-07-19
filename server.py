@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# HEY
+# LISTEN
+# Look around line 20 to find what you need to modify to change where catcher outputs its files. Default is /tmp/catcher
 """
 Very simple HTTP server in python for logging requests
 Usage::
